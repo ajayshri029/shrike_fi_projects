@@ -1,0 +1,11 @@
+# ESP-IDF / CMake build artifacts
+**/build/
+**/CMakeCache.txt
+**/CMakeFiles/
+**/*.ninja
+**/*.cmake
+**/log/
+
+# OS specific hidden files
+.DS_Store
+
